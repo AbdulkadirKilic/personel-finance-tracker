@@ -1,3 +1,6 @@
 [submodule "be"]
 	path = be
 	url = https://github.com/AbdulkadirKilic/personel-finance-tracking-be.git
+[submodule "fe"]
+	path = fe
+	url = https://github.com/AbdulkadirKilic/personel-finance-tracking-fe.git
